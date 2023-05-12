@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Library1\bin\Debug\Library1.dll
+C:\Users\HP\source\repos\Library1\bin\Debug\Library1.pdb
+C:\Users\HP\source\repos\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Library1\obj\Debug\Library1.dll
+C:\Users\HP\source\repos\Library1\obj\Debug\Library1.pdb
+C:\Users\HP\source\repos\Library1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Library1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\Library1\obj\Debug\Library1.csproj.CopyComplete
